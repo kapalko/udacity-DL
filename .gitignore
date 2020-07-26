@@ -6,3 +6,7 @@ weight-initialization/__pycache__/
 weight-initialization/data/
 project-dog-classification/dogImages/
 project-dog-classification/lfw/
+Project-bikesharing/__pycache__/
+Project-bikesharing/.ipynb_checkpoints/
+Project-bikesharing/jwt
+Project-bikesharing/.gitignore
