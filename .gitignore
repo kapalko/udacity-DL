@@ -10,3 +10,4 @@ Project-bikesharing/__pycache__/
 Project-bikesharing/.ipynb_checkpoints/
 Project-bikesharing/jwt
 Project-bikesharing/.gitignore
+word2vec-embeddings/data/text8
