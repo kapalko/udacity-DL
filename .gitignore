@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+__pycache__/
 autoencoder/convolutional-autoencoder/data/
 autoencoder/denoising-autoencoder/data/
 autoencoder/linear-autoencoder/data/
