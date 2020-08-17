@@ -12,3 +12,4 @@ Project-bikesharing/.ipynb_checkpoints/
 Project-bikesharing/jwt
 Project-bikesharing/.gitignore
 word2vec-embeddings/data/text8
+project-tv-script-generation/trained_rnn.pt
