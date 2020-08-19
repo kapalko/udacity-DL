@@ -13,3 +13,5 @@ Project-bikesharing/jwt
 Project-bikesharing/.gitignore
 word2vec-embeddings/data/text8
 project-tv-script-generation/trained_rnn.pt
+gan-mnist/data/
+gan-mnist/train_samples.pkl
