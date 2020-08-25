@@ -13,3 +13,6 @@ Project-bikesharing/jwt
 Project-bikesharing/.gitignore
 word2vec-embeddings/data/text8
 project-tv-script-generation/trained_rnn.pt
+gan-mnist/data/
+project-tv-script-generation/tv_script_submission.zip
+project-tv-script-generation/tv_script_submission/
