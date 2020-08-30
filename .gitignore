@@ -15,3 +15,5 @@ word2vec-embeddings/data/text8
 project-tv-script-generation/trained_rnn.pt
 gan-mnist/data/
 gan-mnist/train_samples.pkl
+project-tv-script-generation/tv_script_submission.zip
+project-tv-script-generation/tv_script_submission/
