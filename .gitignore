@@ -16,3 +16,6 @@ project-tv-script-generation/trained_rnn.pt
 gan-mnist/data/
 gan-mnist/train_samples.pkl
 dcgan-svhn/data/
+cycle-gan/checkpoints_cyclegan/
+cycle-gan/samples_cyclegan/summer2winter*
+cycle-gan/samples_cyclegan/sample-*
