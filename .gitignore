@@ -23,3 +23,5 @@ cycle-gan/samples_cyclegan/summer2winter*
 cycle-gan/samples_cyclegan/sample-*
 project-face-generation/processed-celeba-small.zip
 project-face-generation/processed_celeba_small/
+project-tv-script-generation/tv_script_submission.zip
+project-tv-script-generation/tv_script_submission/
