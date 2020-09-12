@@ -17,3 +17,9 @@ gan-mnist/data/
 gan-mnist/train_samples.pkl
 project-tv-script-generation/tv_script_submission.zip
 project-tv-script-generation/tv_script_submission/
+dcgan-svhn/data/
+cycle-gan/checkpoints_cyclegan/
+cycle-gan/samples_cyclegan/summer2winter*
+cycle-gan/samples_cyclegan/sample-*
+project-face-generation/processed-celeba-small.zip
+project-face-generation/processed_celeba_small/
